@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Notícia</title>
+</head>
+<body>
+    <h1>Aumento dos impostos chegam a 60% no Brasil</h1>
+    <hr>
+    <h2>Os impostos brasileiros estão chegando a <strong>60%</strong> em produtos e serviços.</h2>
+    <p>O Brasil, está aumentando seus impostos a cada mês, oque está gerando um aumento de familías que não conseguem sobreviver, pelo aumento dos impostos.</p>
+    <p>Em uma pesquisa feita no brasil, <br> Produtos e serviços tem quase 60% <br> de imposto em todo o território nacional.</p>
+    <strong>
+        MAIS PORQUE TANTO AUMENTO NOS IMPOSTOS?
+    </strong>
+    <p>Se você está curioso para saber acesse: <a href="PAG 2.html" rel="next" target="_self">AUMENTO DE IMPOSTOS NO BRASIL</a></p>
+    <h3>Recentemente vimos o presidente Luiz Inácio LuLa da Silva e sua esposa, fazendo viagens bilionária, usando o dinheiro do fundo público.</h3>
+    <p>Para mais informações acesse: <a href="PAG 3.html">Viagens Bilionária no governo LuLa</a></p>
+</body>
+</html>
